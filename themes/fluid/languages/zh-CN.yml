@@ -2,7 +2,7 @@ search:
   title: 搜索
   keyword: 关键词
   status:
-    success: v 
+    success: v
     error: x
 
 postTotal: 共计 %d 篇文章
@@ -15,21 +15,21 @@ post:
   toc: 目录
 
 archive:
-  title: 归档
-  subtitle: 归档
+  title: Archives
+  subtitle: 变强吧 少年
 
 tag:
-  title: 标签
-  subtitle: 标签
+  title: Tags
+  subtitle: 念
 
 category:
-  title: 分类
-  subtitle: 分类
+  title: Categories
+  subtitle: 想
 
 about:
-  title: 关于
-  subtitle: 关于
+  title: About Me
+  subtitle: About Me
 
 page404:
   title: 页面走丢啦~
-  subtitle: 页面走丢啦~
+  subtitle: 人生是个迷宫 我们都是迷失者
