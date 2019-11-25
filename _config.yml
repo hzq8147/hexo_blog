@@ -78,4 +78,6 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  repository: git@github.com:hzq8147/hzq8147.github.io.git
+  type: git
+  branch: master
