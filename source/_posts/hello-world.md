@@ -1,40 +1,21 @@
 ---
-title: Hello, world!
-tags: [Hexo, Fluid]
-date: 2019-10-10 10:00:00
+title: hello-world
+date: 2019-12-02 17:50:16
+index_img: /indexImg/hello-world.png
+tags: [Hello]
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+# About Me
 
-### Create a new post
+97年 坐标北京 <font color=Red>菜鸡码农</font> Frontend Engineer
+<!--more-->
 
-``` bash
-$ hexo new "My New Post"
+一个单身小宅的blog就此诞生 有时间的话就瞎写点东西
+
+## And <font color=Red>*'Hello,World!'*</font>
+```javascript
+function helloWorld() {
+  console.log("Program!");
+}
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)

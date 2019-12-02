@@ -116,7 +116,7 @@ index:
     enable: true  # 为 false 则不显示任何内容
     text: 一只还在奋斗的单身小宅 # 为空则按 hexo config.subtitle 显示
   auto_excerpt:
-    enable: true
+    enable: false
   post_url_target: _self  # available: _blank | _self
   post_meta: # 是否显示文章信息（时间、分类、标签）
     date: true
@@ -147,7 +147,7 @@ post:
   toc:  # 右侧导航条
     enable: true
   copyright:  # 版权声明
-    enable: true
+    enable: false
     content: '本博客所有文章除特别声明外，均采用 <a href="https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC" rel="nofollow noopener">CC BY-SA 3.0协议</a> 。转载请注明出处！'
   custom:  # 文章底部自定义内容
     enable: false
